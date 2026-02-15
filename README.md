@@ -48,7 +48,7 @@ I focus on translating rigorous mathematical models into efficient and robust Py
 
 ---
 
-## Selected Project
+## Projects
 
 ### Modern Portfolio Theory – Advanced Risk-Based Optimization
 
