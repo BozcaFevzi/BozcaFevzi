@@ -70,7 +70,7 @@ Looking to contribute to a quantitative team in:
 - Quantitative Research
 - Risk Management
 - Derivatives Pricing
-- Systematic Strategies
+- Asset Management
 
 Strong interest in mathematically rigorous modeling and data-driven decision making.
 
