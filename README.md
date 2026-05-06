@@ -50,8 +50,7 @@ I focus on translating rigorous mathematical models into efficient and robust Py
 
 ## Projects
 
-### 💼 [Modern Portfolio Theory – Advanced Risk-Based Optimization](https://github.com/BozcaFevzi/portfolio-optimization-markowitz-var-es
-)
+### 💼 [Modern Portfolio Theory – Advanced Risk-Based Optimization](https://github.com/BozcaFevzi/portfolio-optimization-markowitz-var-es)
 - Implementation of Mean-Variance optimization
 - Extension to VaR and Expected Shortfall minimization
 - Constrained quadratic programming
@@ -60,8 +59,7 @@ I focus on translating rigorous mathematical models into efficient and robust Py
 - Sensitivity and robustness analysis
 - **Tools:** NumPy (vectorized matrix computations), SciPy (BFGS, QP), pandas, matplotlib.
 
-### 🧮 [Malliavin Calculus & Asian Option Pricing](https://github.com/BozcaFevzi/option-asiatique-bachelier-malliavin-greeks
-)
+### 🧮 [Malliavin Calculus & Asian Option Pricing](https://github.com/BozcaFevzi/option-asiatique-bachelier-malliavin-greeks)
 - Numerical estimation of the Delta for a complex Asian option under the Bachelier model.
 - Performance and variance comparison between standard Finite Differences (FD) and Malliavin Calculus (Integration by Parts - IBP).
 - Asymptotic convergence analysis via Monte Carlo simulations.
