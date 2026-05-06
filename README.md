@@ -3,7 +3,7 @@
 🎓 MSc in Mathematical Modeling for Economics and Finance  
 Université Paris 1 Panthéon-Sorbonne  
 📍 Paris, France  
-🔎 Seeking a 4–6 month internship starting March 2026 (Quantitative Finance / Risk / Research)
+🔎 Seeking a 4–6 month internship starting May 2026 (Quantitative Finance / Risk / Research)
 
 ---
 
