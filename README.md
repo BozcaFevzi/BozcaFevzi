@@ -24,7 +24,7 @@ I focus on translating rigorous mathematical models into efficient and robust Py
 ## Technical Skills
 
 ### Quantitative Finance
-- Black–Scholes framework
+- Black–Scholes
 - Cox–Ross–Rubinstein model
 - Monte Carlo simulation
 - Tail risk measures (VaR, ES)
@@ -65,11 +65,10 @@ I focus on translating rigorous mathematical models into efficient and robust Py
 - Asymptotic convergence analysis via Monte Carlo simulations.
 - **Tools:** Python, Jupyter Notebook, Monte Carlo, matplotlib.
 
-### 📈 [Quantitative Portfolio Optimization: Numerical Methods](https://github.com/BozcaFevzi/numerical-optimization-finance)
+### 📈 [Portfolio Optimization: Numerical Methods](https://github.com/BozcaFevzi/numerical-optimization-finance)
 - Implementation of custom numerical optimization algorithms (Newton, Conjugate Gradient, Steepest Descent) "from scratch".
 - Constrained optimization incorporating budget and no-short-selling constraints.
 - Comparison of custom algorithms against `SciPy` and `NLopt` solvers.
-- Efficient frontier visualization and risk-based optimization.
 - **Tools:** Python, NumPy, SciPy, NLopt, pandas, matplotlib.
 
 ---
